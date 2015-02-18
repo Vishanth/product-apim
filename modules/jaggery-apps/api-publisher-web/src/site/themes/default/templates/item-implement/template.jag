@@ -320,5 +320,4 @@ mc.setPayloadJSON('{ "data" : "sample JSON"}');*/
     })
 </script>
 
-
 <% }); %>
